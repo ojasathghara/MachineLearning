@@ -1,0 +1,5 @@
+.DS_Store
+python/
+
+.vscode
+.ipynb_checkpoints
