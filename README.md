@@ -1,5 +1,5 @@
 <h1> Welcome to The Machine Learning Notes</h1>
-These notes will get you started on Machine Learning with Python.
+These notes will get you started on Data Science and Machine Learning with Python.
 
 <h2>Pre-Requisites</h2>
 You need to be familiar with following tools and concepts:
