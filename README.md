@@ -1,4 +1,4 @@
-<h1> Welcome to The Machine Learning Notes</h1>
+<h1> Welcome to Data Science and The Machine Learning Notes</h1>
 These notes will get you started on Data Science and Machine Learning with Python.
 
 <h2>Pre-Requisites</h2>
